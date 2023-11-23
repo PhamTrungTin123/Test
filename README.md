@@ -7,7 +7,7 @@ Lab #1: Intelligent Agents
 The main aim of the lab is to implement a simple reflex agent in the case of a vacuum cleaner (single agent). (Deadline: 23h59 02/10/2023)
 
 
-For a given class diagram as follows:![Alt text](image-1.png)
+For a given class diagram as follows: ![Alt text](image-1.png)
 
 
 
